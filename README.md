@@ -1,7 +1,7 @@
 # Overview of the Project
 ## Introduction
 
-*rBCstats* is a capstone project completed by *Xinbin Huang, Yvonne Dong, and Jomar Anthony Sastrillo*, in partial fulfillment of the degree requirements for the Master of Data Science (MDS) at the University of British Columbia (UBC). This project was completed in partnership with the BC Stats, the provincial government of Brtish Columbia.
+*rBCstats* is a capstone project, in partial fulfillment of the degree requirements for the Master of Data Science (MDS) at the University of British Columbia (UBC). This project was completed in partnership with the BC Stats, the provincial government of Brtish Columbia.
 
 BC Stats is the provincial government's leader in statistical and economic research, information, and analysis. It helps business and institutions to increase overall performance by providing the information they need to make effective decisions. With the goal of shaping the future of education system in British Columbia, BC Stats undertakes large-scale surveys each year for public post-secondary institutions. For the Baccalaureate Graduates Survey (BGS), it asks former students who have graduated two or five years to provide feedback on employment outcomes, further education, education financing and student debt, and student satisfaction.
 
