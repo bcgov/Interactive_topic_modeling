@@ -1,7 +1,5 @@
 ---
 title: "Step by step User Guide"
-author: 'Xinbin Huang, Jomar Anthony Sastrillo, Yvonne Dong'
-date: '2018-06-24'
 output:
  pdf_document:
    toc: yes
