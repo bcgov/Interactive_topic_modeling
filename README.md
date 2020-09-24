@@ -30,8 +30,7 @@ There are two main ways to launch the dashboard, please refer to the following i
 - [Docker](docker-instruction.md)
 
 ## Documentation and Report
-- **[Final report](./report/report.pdf)**: summary of the methodology and findings of this capstone project.
-- **[User Guide](./rBCstats/inst/doc/user-guide.pdf)**: step-by-step instructions on how to use the dashboard.
+- **[User Guide](https://github.com/bcgov/Interactive_topic_modeling/blob/master/doc/user-guide.pdf)**: step-by-step instructions on how to use the dashboard.
 
 ## Acknowledgments
 
