@@ -38,7 +38,7 @@ We are grateful to many of our colleagues at UBC. Especially, we are grateful to
 
 ## License
 
-This project is licensed under the *MIT License* and *Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License*. [Details here](LINCESE.Md)
+This project is licensed under the *Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License*. [Details here](LINCESE.Md)
 
 ## Code of Conduct
 
